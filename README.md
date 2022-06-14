@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz?si=0997583617e04b5b)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx?si=288d792e29204905)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
